@@ -16,6 +16,6 @@ A questo punto in alto a sinistra dovreste avere la cartella del progetto aperta
 \
 Una volta scritto il vostro codice, se volete eseguirlo basterà che sempre da terminale eseguiate il seguente comando:\
 \
-cargo run\
+**cargo run**\
 \
 Ora potete iniziare a studiare e programmare in Rust. Buona fortuna.
