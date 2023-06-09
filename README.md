@@ -1,4 +1,5 @@
 # Iniziare con Rust
+Si fa presente che questa documentazione non è rivolta a chi non ha mai programmato prima: si dà per scontate quindi nozioni basilari quali quelle di variabili, costrutti, metodi e altri. In caso non aveste queste nozioni, consiglio di riferirsi alle risorse citate alla fine di questo documento. \
 Come prima cosa si necessita di scaricare ed installare Rust e Cargo, ovvero il gestore di pacchetti per Rust. Per farlo seguite questo link: https://rustup.rs/ .\
 Premete su **rustup-init.exe**, scaricate e quindi installate l'esegubile.\
 \
@@ -19,9 +20,8 @@ Una volta scritto il vostro codice, se volete eseguirlo basterà che sempre da t
 **cargo run**\
 \
 Ora potete iniziare a studiare e programmare in Rust. Buona fortuna.\
-\
 ## Sources
 Di seguito abbiamo tutti i rimandi ai corsi e alle risorse che ho utilizzato per lo studio del linguaggio in caso voleste approfondire o in caso non vi fosse chiaro un concetto. Inoltre consiglio ugualmente di spulciare almeno gli inizi dei corsi in quanto è presente tutta la parte storica e concettuale non essenziale ai fini dello sviluppo, ma comunque molto interessanti.\
 \
-**Corso di Google**: https://google.github.io/comprehensive-rust/welcome.html (Forma testuale)\
-**Corso di Zero To Mastery**: https://www.youtube.com/watch?v=lzKeecy4OmQ (Video)
+[**Corso di Google**](https://google.github.io/comprehensive-rust/welcome.html) (Forma testuale)\
+[**Corso di Zero To Mastery**](https://www.youtube.com/watch?v=lzKeecy4OmQ) (Video)
