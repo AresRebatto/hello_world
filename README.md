@@ -18,4 +18,10 @@ Una volta scritto il vostro codice, se volete eseguirlo basterà che sempre da t
 \
 **cargo run**\
 \
-Ora potete iniziare a studiare e programmare in Rust. Buona fortuna.
+Ora potete iniziare a studiare e programmare in Rust. Buona fortuna.\
+\
+## Sources
+Di seguito abbiamo tutti i rimandi ai corsi e alle risorse che ho utilizzato per lo studio del linguaggio in caso voleste approfondire o in caso non vi fosse chiaro un concetto. Inoltre consiglio ugualmente di spulciare almeno gli inizi dei corsi in quanto è presente tutta la parte storica e concettuale non essenziale ai fini dello sviluppo, ma comunque molto interessanti.\
+\
+**Corso di Google**: https://google.github.io/comprehensive-rust/welcome.html (Forma testuale)\
+**Corso di Zero To Mastery**: https://www.youtube.com/watch?v=lzKeecy4OmQ (Video)
