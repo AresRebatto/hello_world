@@ -3,6 +3,11 @@ fn main() {
     let mut n  = 43; /*Dichiariamo una variabile. Se non mettiamo mut, la variabile verrà automaticamente presa come immutable e 
     non potrà essere modificata in seguito. I due punti seguiti da i32 servono per specificare il tipo: nel nostro caso un intero a 32 bit*/
     n = 42; 
+
+    let x: i32 = 4;
+    let x: i32 = 5; //La possibilità di creare una variabile con lo stesso nome di un'altra precedente variabile è detta Shadowing: si dice 
+    //che la seconda variabile ha messo in ombra (shadowed) la prima: quando andremo quindi a richiarmare la variabile x, avrà valore 5.
+    //ATTENZIONE. Quello che abbiamo fatto non è stato cambiare il valore della variabile, ma sovrascrivere l'intera variabile con una nuova
     if n < 100
     {
         while n < 100 
