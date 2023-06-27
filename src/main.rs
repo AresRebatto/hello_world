@@ -87,7 +87,6 @@ fn Array()
 
 fn Stringhe()
 {
-    //Stringhe immutabili
     //Tipo che gestisce i dati allocati nell'heap
     /*Ci permette di memorizzare un quantitativo di testo a noi sconosciuto:
     Utile ad esempio quando chiediamo un valore in input da un utente
