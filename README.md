@@ -25,4 +25,5 @@ Di seguito abbiamo tutti i rimandi ai corsi e alle risorse che ho utilizzato per
 \
 [**Documentazione Ufficiale**](https://doc.rust-lang.org/book/title-page.html) (Forma testuale)\
 [**Corso di Google**](https://google.github.io/comprehensive-rust/welcome.html) (Forma testuale)\
-[**Corso di Zero To Mastery**](https://www.youtube.com/watch?v=lzKeecy4OmQ) (Video)
+[**Corso di Zero To Mastery**](https://www.youtube.com/watch?v=lzKeecy4OmQ) (Video)\
+[**Corso di freecodecamp**](https://www.freecodecamp.org/italian/news/impara-a-programmare-con-rust-corso-interattivo-in-linguaggio-rust-su-replit/#stringhe-e-slice-in-rust) (forma testuale o video)
