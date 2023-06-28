@@ -93,7 +93,10 @@ fn Stringhe()
     */
 
     let stringa1: String = String::from("CIAO"); //Variabile stringa con dentro "CIAO"
-    let stringa2: String = stringa1.clone() + &String::from(" Mondo"); // Copiamo la prima stringa nella seconda e gli aggiungiamo mondo
+    let stringa2: String = stringa1.clone() + &String::from(" Mondo"); // Copiamo la prima 
+    //stringa nella seconda e gli aggiungiamo mondo
     println!("{stringa1}");
-    println!("{stringa2}"); 
+    println!("{stringa2}");
+    let a: (usize, usize) = (stringa1.len(), stringa1.capacity());
+    println!("{} {}", a.0, a.1);
 }
